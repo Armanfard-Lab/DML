@@ -13,7 +13,7 @@ Please cite our paper if you use the results of our work.
   title={Deep Multi-Representation Learning for Data Clustering},
   author={Sadeghi, Mohammadreza and Armanfard, Narges},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2022}
+  year={2023}
 }
 ```
 
